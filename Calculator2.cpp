@@ -5,9 +5,9 @@ int main(){
     float a,b;
 
     cout<<"Enter a ";
-    cin>>a;
-    cout<<"Enter b ";
     cin>>b;
+    cout<<"Enter b ";
+    cin>>a;
 
     cout<<"addition is "<<(a+b)<<endl;
     cout<<"Sbstraction is "<<(a-b)<<endl;
