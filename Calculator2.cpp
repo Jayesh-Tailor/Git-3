@@ -14,6 +14,5 @@ int main(){
     cout<<"Multiplication is "<<(a*b)<<endl;
     cout<<"Division is "<<(a/b)<<endl;
 
-
     return 0;
 }

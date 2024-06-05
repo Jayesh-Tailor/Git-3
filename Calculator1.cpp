@@ -15,6 +15,5 @@ int main(){
     cout<<"Division is "<<(a/b)<<endl;
     cout<<"Entered Numbers are [(0 = not equal)(1 = equal)]"<<endl<<(a==b)<<endl;
 
-
     return 0;
 }
